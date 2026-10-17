@@ -9,7 +9,7 @@
 - 自动勾选答案到页面
 - 复制提示词+题目（可分段导出）
 - 支持 DeepSeek / OpenAI 兼容 / 本地 LM Studio / llama-server
-
+- 有些环境可能没有直链的ai，也可使用页面方式提交给公司自己的ai，但就不能自动答题了。
 ## 运行
 ```bash
 pip install -r requirements.txt
