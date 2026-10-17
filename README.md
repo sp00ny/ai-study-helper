@@ -24,3 +24,4 @@ pyinstaller --onefile --windowed --name AI答题助手 ^
 ```
 
 生成的 exe 与 inject 目录需放在一起，或使用 --add-data 打进去。
+<img width="2098" height="1327" alt="图片" src="https://github.com/user-attachments/assets/7a296c17-49f5-4fb3-9865-ab1a756f3fce" />
